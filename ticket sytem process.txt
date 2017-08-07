@@ -1,0 +1,23 @@
+Roles : Admin & Users 
+
+
+Step-1:
+User registration by admin
+users          	pwd
+rambabu		1234
+sai
+		1234
+step-1:
+add new ticket :
+-> added ticket are saved in raised tickets tab
+-> Received tickets are saved in mytickets 
+-> Dashboard updated based on myticks
+
+Step-2:
+-> check ticket in my tickets tab using details
+-> update the ticket 
+
+
+step-3:
+->add daily work & schedule by using new timesheet 
+-> timesheet list displays daily work of the user
